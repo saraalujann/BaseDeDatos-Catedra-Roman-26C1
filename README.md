@@ -20,6 +20,7 @@ Este repositorio contiene el material que fui desarrollando mientras cursé **Ba
 * Álgebra Relacional.
 * Dependencias Funcionales y multievaluadas.
 * SQL.
+
 **Parcial Promocional:**
 * Optimización y procesamiento de consultas.
 * Control de concurrencia

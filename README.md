@@ -25,6 +25,3 @@ Este repositorio contiene el material que fui desarrollando mientras cursé **Ba
 * Recuperación
 * NOSQL (MOngoDB, Neo4J, Cassandra)
   (En este cuatri migraciones no entró para el promocional)
-
-
-Si este repositorio te ayudó a preparar la materia, podés dejar una ⭐ para que también le llegue a otros estudiantes.

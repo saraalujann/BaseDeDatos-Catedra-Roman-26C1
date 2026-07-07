@@ -1,5 +1,6 @@
 # Base de Datos — Cátedra Román (1C 2026)
 
+(se sigue modificando/agregando material que me falta subir o reveer)
 Este repositorio contiene el material que fui desarrollando mientras cursé **Base de Datos** durante el **primer cuatrimestre de 2026 (1C 2026)** en la **Cátedra Román**.
 
 ## 📂 Contenido
